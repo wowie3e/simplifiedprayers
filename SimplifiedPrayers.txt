@@ -1,60 +1,99 @@
-Welcome to SimplifiedPrayers!!!!!!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simplified Prayers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        pre {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        p {
+            text-align: justify;
+        }
+        .prayer {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Simplified Prayers!</h1>
+    <p>Hello, this is a very basic website, but I have no money, so ye...</p>
 
-
-hello this is a very basic website but i have no money so ye
-
-
-
-Our Father
-
+    <div class="prayer">
+        <h2>Our Father</h2>
+        <pre>
 Our Father, who is in heaven, hallowed be Your name.
- May Your Kingdom come, and may Your will be done on earth as it is in heaven.
- Give us today the nourishment of our souls, and forgive us our sins,
- as we forgive those who sin against us.
- Lead us not into temptation, but deliver us from all evil. Amen.
+May Your Kingdom come, and may Your will be done on earth as it is in heaven.
+Give us today the nourishment of our souls, and forgive us our sins,
+as we forgive those who sin against us.
+Lead us not into temptation, but deliver us from all evil. Amen.
+        </pre>
+    </div>
 
-Hail Mary
-
+    <div class="prayer">
+        <h2>Hail Mary</h2>
+        <pre>
 Hail Mary, full of grace, the Lord is with you.
 Blessed are you among women and blessed is the fruit of your womb Jesus.
 Holy Mary, Mother of God, pray for us sinners now and at the time of our death.
 Amen.
+        </pre>
+    </div>
 
-Glory Be
-
+    <div class="prayer">
+        <h2>Glory Be</h2>
+        <pre>
 Glory be to the Father and Son and Holy Spirit,
- as it was in the beginning is now and ever shall be,
-world without end.
-Amen.
+as it was in the beginning, is now, and ever shall be,
+world without end. Amen.
+        </pre>
+    </div>
 
-Anima Christi
-
+    <div class="prayer">
+        <h2>Anima Christi</h2>
+        <pre>
 O, Soul of Jesus, make me holy.
-O, Body of Jesus, save me from sin
-O, Blood of Jesus, attach to every part of my being
-Water from the side of Jesus, cleanse me of all of my sins.
-O, Passion of Jesus make me strong during testing.
+O, Body of Jesus, save me from sin.
+O, Blood of Jesus, attach to every part of my being.
+Water from the side of Jesus, cleanse me of all my sins.
+O, Passion of Jesus, make me strong during testing.
 O, great Jesus, hear me when I cry out.
 Within your wounds, hide me from all evil.
 Never allow me to be separated from You, great Lord.
 From the evil One, defend me.
-At the time of my death call me
-and ask me to come over to you.
+At the time of my death, call me
+and ask me to come over to you,
 that with your people I may worship you
-forever and ever.
-Amen.
+forever and ever. Amen.
+        </pre>
+    </div>
 
-Apostles Creed
-
-I believe in God, the Almighty Father
-creator of the heavens and the earth
-and IN Jesus, His only Son, our Lord
+    <div class="prayer">
+        <h2>Apostles Creed</h2>
+        <pre>
+I believe in God, the Almighty Father,
+creator of the heavens and the earth,
+and in Jesus, His only Son, our Lord,
 who was conceived by the Holy Spirit,
 who was born of the Virgin Mary,
 who suffered a great, painful death under Pontius Pilate,
 who was crucified, died, and buried;
 He descended into Sheol,
-and on the third day He rose from the dead in accordance with the Bible
+and on the third day He rose from the dead in accordance with the Bible.
 He ascended into Heaven 40 days after the Resurrection,
 and is seated at the right hand of God the Father.
 From there He will come again (Second Coming)
@@ -65,3 +104,7 @@ the communion of saints,
 the forgiveness of sins,
 the resurrection of the body,
 and life everlasting. Amen.
+        </pre>
+    </div>
+</body>
+</html>
